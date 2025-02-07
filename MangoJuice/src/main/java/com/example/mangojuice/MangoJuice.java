@@ -5,6 +5,8 @@ import com.noahbres.meepmeep.MeepMeep;
 import com.noahbres.meepmeep.roadrunner.DefaultBotBuilder;
 import com.noahbres.meepmeep.roadrunner.entity.RoadRunnerBotEntity;
 
+//this is just MeepMeep but i renamed it bc i love mango juice <3
+
 public class MangoJuice {
     public static void main(String[] args) {
         MeepMeep meepMeep = new MeepMeep(600);
