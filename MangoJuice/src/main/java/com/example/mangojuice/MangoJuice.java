@@ -5,7 +5,7 @@ import com.noahbres.meepmeep.MeepMeep;
 import com.noahbres.meepmeep.roadrunner.DefaultBotBuilder;
 import com.noahbres.meepmeep.roadrunner.entity.RoadRunnerBotEntity;
 
-//this is just MeepMeep but i renamed it bc i love mango juice <3
+//this is just MeepMeep but i renamed it bc i really like mango juice
 
 public class MangoJuice {
     public static void main(String[] args) {
@@ -25,6 +25,7 @@ public class MangoJuice {
                 .turn(Math.toRadians(90))
                 .lineToY(0)
                 .turn(Math.toRadians(90))
+
 
                 .build());
 
