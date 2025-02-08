@@ -12,4 +12,4 @@ language governing rights and limitations under the License.
 The Original Code is <firmwareRoot>\AT91SAM7S256\Resource\SOUNDS\!Startup.rso.
 LEGO is the owner of the Original Code. Portions created by Robert Atkinson are 
 Copyright (C) 2015. All Rights Reserved.
-Contributor(s): Robert Atkinson.
+Contributor(s): Robert Atkinson. 
